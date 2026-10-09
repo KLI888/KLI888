@@ -1,11 +1,6 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=KLI888&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%C3%97%20AI%20Engineer%20%C3%97%20Full-Stack%20Builder&descSize=20&descAlignY=58" width="100%" />
-
-<a href="https://github.com/KLI888">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=760&height=50&lines=I+build+software+AND+the+brands+around+it;Founder+of+Superiors+Technology+%7C+est.+2019;Zero+Trust+security+%2B+ML+for+healthcare;n8n+%7C+Ollama+%7C+LangGraph+%7C+Claude+Code;Full-stack+%E2%86%92+AI+agents+%E2%86%92+real+clients" alt="Typing SVG" />
-</a>
+<img src="assets/hero.svg" width="100%" alt="KLI888 — Founder x AI Engineer x Full-Stack Builder" />
 
 <br/>
 
@@ -13,33 +8,17 @@
 ![Followers](https://img.shields.io/github/followers/KLI888?style=for-the-badge&logo=github&color=0d1117&labelColor=00f7ff)
 [![Superiors](https://img.shields.io/badge/Superiors.in-Agency-ff0080?style=for-the-badge)](https://superiors.in)
 
+<br/>
+
+<img src="assets/terminal.svg" width="85%" alt="Animated terminal" />
+
 </div>
 
----
+<br/>
 
-## `> whoami`
+<img src="assets/title-combo.svg" width="100%" alt="The Rare Combo" />
 
-```python
-class KLI888:
-    handle   = "KLI888"
-    base     = "Pune, Maharashtra, India 🇮🇳"
-    roles    = ["Founder @ Superiors Technology", "Final-year B.Tech (AI & Data Science)"]
-    since    = 2019                      # shipping for clients since day one
-    clients  = "20+ across hospitality, healthcare & F&B"
-    languages = ["English", "Hindi", "Marathi"]
-
-    superpower = "Code + Brand + Automation under one roof"
-    currently  = ["Zero Trust healthcare security", "Local LLMs", "AI agents"]
-
-    def pitch(self):
-        return "Most devs can't market. Most marketers can't code. I do both."
-```
-
----
-
-## ⚡ The Rare Combo
-
-Plenty of developers can build. Plenty of people can run branding and marketing. **Very few do both, run a real agency, *and* build AI and security systems.**
+Plenty of developers can build. Plenty of people can run branding and marketing. **Very few do both, run a real agency since 2019, and also ship AI and security systems.**
 
 ```mermaid
 mindmap
@@ -67,16 +46,19 @@ mindmap
       Client delivery
 ```
 
----
+<img src="assets/title-arsenal.svg" width="100%" alt="Arsenal" />
 
-## 🧰 Arsenal
+<div align="center">
+<img src="assets/orbit.svg" width="85%" alt="Skills orbiting the core" />
+</div>
 
-### 🖥️ Build
+<details>
+<summary><b>🧰 Prefer the classic icon view?</b></summary>
+<br/>
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express,react,nextjs,flutter,dart,js,ts,tailwind&perline=12" />
 </p>
-
-### 🤖 AI · Agents · Automation
 <p>
 <img src="https://cdn.simpleicons.org/anthropic/D97757" width="46" title="Anthropic API" />
 <img src="https://cdn.simpleicons.org/claude/D97757" width="46" title="Claude Code" />
@@ -84,33 +66,22 @@ mindmap
 <img src="https://cdn.simpleicons.org/langchain/00A67E" width="46" title="LangGraph" />
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="46" title="n8n" />
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="46" title="scikit-learn" />
-<img src="https://cdn.simpleicons.org/pandas/B3A7F7" width="46" title="pandas" />
-<img src="https://cdn.simpleicons.org/numpy/4DABCF" width="46" title="NumPy" />
 </p>
-
-### ☁️ Data · Cloud · Tools
 <p>
 <img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,git,github,linux,vscode,postman,figma&perline=9" />
 </p>
 
----
+</details>
 
-## 🚀 Featured Missions
+<img src="assets/title-missions.svg" width="100%" alt="Missions" />
 
-| 🛰️ Project | 🔥 What it is | ⚙️ Stack |
-|---|---|---|
-| **Cyber-Pulse** | ML-driven Zero Trust security platform for healthcare information systems — anomaly detection with a human-in-the-loop admin review | Flask · React · Isolation Forest · JWT/RBAC |
-| **Jalgaon.com** | Local business directory built for Jalgaon | React · Django |
-| **GameRound** | Real-time WebSocket game-round system | Django · React |
-| **Shorts Maker** | Free pipeline that turns long YouTube videos into short clips | Python · Automation |
-| **Voice Prompt Designer** | Chrome extension that turns voice into polished prompts using on-device AI | JavaScript · Local AI |
-| **Missed-Call WhatsApp Bot** | Auto-replies on WhatsApp the moment a call goes unanswered | Android · Automation |
+<div align="center">
+<img src="assets/missions.svg" width="100%" alt="Featured projects" />
+</div>
 
-<!-- TODO: add repo links to each project name -->
+<!-- TODO: link each project's repo, e.g. [Cyber-Pulse](https://github.com/KLI888/REPO) -->
 
----
-
-## 🔁 How I Ship
+<img src="assets/title-ship.svg" width="100%" alt="How I ship" />
 
 ```mermaid
 flowchart LR
@@ -122,9 +93,7 @@ flowchart LR
     F -.feedback.-> A
 ```
 
----
-
-## 📊 Stats
+<img src="assets/title-stats.svg" width="100%" alt="Telemetry" />
 
 <div align="center">
 
@@ -135,48 +104,47 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com?user=KLI888&theme=radical&hide_border=true" />
 
-</div>
+<br/><br/>
 
-### 🐍 Contribution Snake
-
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KLI888/KLI888/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KLI888/KLI888/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/KLI888/KLI888/output/github-snake-dark.svg" />
 </picture>
-</div>
 
-### 📈 Activity Graph
+<br/>
 
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KLI888&theme=react-dark&hide_border=true&area=true" width="100%" />
+
 </div>
 
----
-
-## 💬 Ask Me About
+<img src="assets/title-contact.svg" width="100%" alt="Open channel" />
 
 - 🏢 Building and running a tech and branding agency while still a student
 - 🤖 Automating real business workflows with **n8n** and AI agents
 - 🧠 Running **local LLMs** with Ollama, without sending data to the cloud
 - 🛡️ Applying **Zero Trust** thinking to healthcare systems
-- 🎬 Using code to scale content creation
-
----
-
-## 🤝 Let's Build Something
 
 <div align="center">
 
 [![Agency](https://img.shields.io/badge/Hire%20Superiors-superiors.in-00f7ff?style=for-the-badge)](https://superiors.in)
 [![GitHub](https://img.shields.io/badge/GitHub-KLI888-181717?style=for-the-badge&logo=github)](https://github.com/KLI888)
-<!-- Add your LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINK) -->
+<!-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINK) -->
 
 <br/>
 
-> *"Don't just write code. Build systems that run businesses."*
+<details>
+<summary>🥚 <b>Easter egg</b> (only for people who scroll this far)</summary>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+Run this in your terminal:
+
+```bash
+echo S0xJODg4 | base64 -d
+```
+
+</details>
+
+<img src="assets/footer.svg" width="100%" alt="Keep building, keep shipping" />
 
 </div>
