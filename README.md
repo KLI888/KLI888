@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Krushna%20Borase&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%C3%97%20AI%20Engineer%20%C3%97%20Full-Stack%20Builder&descSize=20&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=KLI888&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%C3%97%20AI%20Engineer%20%C3%97%20Full-Stack%20Builder&descSize=20&descAlignY=58" width="100%" />
 
 <a href="https://github.com/KLI888">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=760&height=50&lines=I+build+software+AND+the+brands+around+it;Founder+of+Superiors+Technology+%7C+est.+2019;Zero+Trust+security+%2B+ML+for+healthcare;n8n+%7C+Ollama+%7C+LangGraph+%7C+Claude+Code;Full-stack+%E2%86%92+AI+agents+%E2%86%92+real+clients" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 ## `> whoami`
 
 ```python
-class Krushna:
+class KLI888:
     handle   = "KLI888"
     base     = "Pune, Maharashtra, India 🇮🇳"
     roles    = ["Founder @ Superiors Technology", "Final-year B.Tech (AI & Data Science)"]
@@ -43,7 +43,7 @@ Plenty of developers can build. Plenty of people can run branding and marketing.
 
 ```mermaid
 mindmap
-  root((Krushna))
+  root((KLI888))
     Engineering
       Django
       Flask
